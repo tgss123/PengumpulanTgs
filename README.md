@@ -1,6 +1,6 @@
 # PengumpulanTgs
 # Ard
-# ihsan 
+# ihsan Aminul
 # Sakha
 # ADITIA RAMADANI
 # David tamvan dan pemberani
