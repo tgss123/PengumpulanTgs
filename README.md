@@ -1,7 +1,7 @@
 # PengumpulanTgs
 # Ard
-# ihsan Aminul
-# Sakha
+# ihsan 
+# Sakha Hidayah Ramadhan
 # ADITIA RAMADANI
 # David tamvan dan pemberani
 # widia 
