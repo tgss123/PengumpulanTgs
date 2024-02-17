@@ -1,7 +1,7 @@
 # PengumpulanTgs
 # Ard
-# ihsan Aminul Ramadan Nasution
-# Sakha
+# ihsan aminul ramadan
+# Sakha Hidayah Ramadhan
 # ADITIA RAMADANI
 # David tamvan dan pemberani
 # widia 
