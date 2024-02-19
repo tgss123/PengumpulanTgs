@@ -1,0 +1,22 @@
+h1 {
+    background-image: url(kiminonawa2.jpeg);
+}
+body {
+    font-family: sans-serif;
+    background-image: url(kiminonawa1.jpeg);
+    background-position-y: -50px;
+    font-weight: bold;
+}
+h1 { color:rgb(250, 213, 3) ;}
+p {text-align: left;
+   color: rgb(255, 255, 255);}
+button {color: blue;
+
+}
+textarea {
+    text-align: center;
+}
+h2 { 
+    color: white;
+
+}
