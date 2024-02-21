@@ -9,7 +9,7 @@
 # ismi
 
 #### Revision ####
-# Link dari index pertama tidak jalan #
+# Ihsan Not found bug #
 # Ismi Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
