@@ -7,6 +7,11 @@
 # widia 
 # fitri
 # ismi
-# andi
-# sarah
-#### TESS ####
+
+#### Revision ####
+# Folder Ihsan Berantakan Coba Rapihkan #
+# Ismi Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
+# Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
+# Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
+# Adit Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
+# David Tombol kembalinya kemana?. #
