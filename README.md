@@ -7,6 +7,5 @@
 # widia 
 # fitri
 # ismi
-# andi
-# sarah
+
 #### TESS ####
