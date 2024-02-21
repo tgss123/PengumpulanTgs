@@ -14,7 +14,7 @@
 # Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Adit Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
-# David Tombol kembalinya kemana?. #
+# David Not found bug && Lanjut Video Selesaikan #
 
 # Sehari Harus Bisa Selesain Revision #
 # Local == Success && Server == Success #
