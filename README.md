@@ -9,7 +9,7 @@
 # ismi
 
 #### Revision ####
-# Ihsan Not found bug #
+# Ihsan Not found bug && Lanjut Video Selesaikan #
 # Ismi Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
