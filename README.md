@@ -9,9 +9,11 @@
 # ismi
 
 #### Revision ####
-# Folder Ihsan Berantakan Coba Rapihkan #
+# Link dari index pertama tidak jalan #
 # Ismi Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Adit Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # David Tombol kembalinya kemana?. #
+
+# Sehari Harus Bisa Selesain Revision #
