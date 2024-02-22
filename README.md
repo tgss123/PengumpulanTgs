@@ -10,7 +10,7 @@
 
 #### Revision ####
 # Ihsan Not found bug && Lanjut Video Selesaikan #
-# Ismi Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
+# Ismi Coba yang latihan css nya pakai id sama class #
 # Widia Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Fitria Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
 # Adit Foldernya masih kosong, latiha kemarin kemana? coba masukan. #
