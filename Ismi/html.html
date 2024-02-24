@@ -34,8 +34,21 @@
         border: 2px solid rgb(248, 248, 248);
         border-radius: 10px;
       }
-      
-  </style>
+      .main{
+        background-image: repeating-linear-gradient(rgb(29, 101, 225),rgb(66, 133, 233),white);
+        border: 2px solid rgb(15, 15, 15);
+        border-radius: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        height: 200px;
+        overflow: auto;
+      }
+      ol#sarapan li{
+        color: rgb(5, 143, 58);
+      }
+      ol#sarapan li.favorit {
+        color: rgb(101, 138, 173);
+      }
+     </style>
 </head>
 <body>
   <h1 style="color: cornflowerblue; text-align: center;">SELAMAT DATANG</h1>
@@ -43,9 +56,9 @@
     saya hanya memamerkan karya saya disini</p></h4>
     
   <h3><p>List keseharian</p></h3>
-  <ol>
-    <li>Bangun tidur</li>
-    <li>Mandi pagi</li>
+  <ol id="sarapan">
+    <li>bangun tidur</li>
+    <li class="favorit">Mandi pagi</li>
     <li>Sarapan</li>
     <li>Tidur lagi</li>
    <li><img src="https://th.bing.com/th/id/OIP.51Y9rZG9pUDCJZ-pVZtEpAHaEK?w=286&h=180&c=7&r=0&o=5&pid=1.7" alt="terimakasih"> </li>
@@ -59,6 +72,7 @@
     <br>
     </ul>
     <h3 id="bagian1"><p>HyperText Markup Language (HTML)</p></h3>
+    <div class="main">
     <p>HTML adalah bahasa standar pemrogaman yang digunakan untuk membuat halaman website,
       yang diakses melalui internet. Singkatan dari "Hypertext Markup Language" atau "bahasa markup".</p>
     <p>"Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML.
@@ -72,8 +86,10 @@
       Contoh jika mengetik suatu teks dengan tanda tag  . Maka teks tersebut akan muncul dengan huruf tebal atau bold di laman website.</p>
     <p>Melansir dari Nesabamedia, 'language' berarti bahasa pemrograman atau script.
       Disusun dari tag-tag tertentu yang akan diterjemahkan dalam teks atau visual yang bisa dilihat di website.</p>
+    </div>
     <br>
       <h3 id="bagian2"><p>Cascading style sheet (CSS) </p></h3>
+      <div class="main">
     <P>CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. 
       CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.</p>
     <p>CSS dibuat dan dikembangkan oleh W3C (World Wide Web Consortium) pada tahun 1996 untuk alasan yang sederhana.
@@ -87,8 +103,10 @@
         maka kedua bahasa pemrograman ini harus berjalan beriringan.</p>
       <p>Tak hanya penting di sisi teknis, CSS juga berpengaruh pada tampilan sebuah website.
         Tentunya Anda tidak ingin website terlihat seperti situs yang ‘telanjang’ tanpa modifikasi apa pun, bukan?</P>
+      </div>
       <thead>
 <br>
+        
         <tr>
       <h2>Jadwal Pelajaran</h2>
       <table border="1" cellspacing="0" cellpading="5"> 
@@ -115,9 +133,11 @@
           <td>PPKN</td>
           <td>B.Sunda</td>
         </tr>
+      </div>
         </thead>
       </table>
       <br>
+      
       <h3><p>Login</p></h3>
        <label for="username">username : </label>
       <input type="text" id="username">
@@ -125,6 +145,7 @@
       <br>
       <label for="password">password : </label>
       <input type="password" id="password">
+    
       
 </body>
 </html>
