@@ -3,39 +3,81 @@
     <head>
         <title>fitriastiria</title>
         <style>
-            body {background-color:lightgrey;
-            background-repeat: repeat-x;
-        }
-            h1 {font-family:arial, verdana, sans-serif; color:rgb(71, 44, 4)}
-            h2 {font-family:arial, verdana, sans-serif; color:rgb(71, 44, 4)}
-            h3 {color:rgb(71, 44, 4)}
-            ol {color:rgb(105, 72, 9)}
-            p {font-family:georgia, serif; line-height:24px; color: rgb(105, 72, 9);}
-            table {color:rgb(105, 72, 9);}
-            li:hover {color:green; font-size:20px}
+            body {
+                background-image:url(https://i.pinimg.com/originals/c5/de/0b/c5de0baee57e9bda74bfbeb0c533ba75.jpg)
+                }
+
+            h1 {
+                font-family:'Times New Roman', Times, serif;
+                color:rgb(182, 182, 182);
+                text-align:center;
+                font-size:80px
+                }
+
+            h2 {
+                background-image: linear-gradient(rgb(126, 125, 125),white);
+                border-radius: 5px;
+                text-align: center;
+                font-size:30px;
+                }
+           
+            h3 {
+                font-family:Arial, Helvetica, sans-serif;
+                color:rgb(182, 182, 182)
+                }
+
+            ol {
+                background-color:rgb(182, 182, 182);
+                width: 100px;
+                height:100px;
+                border-style: solid;
+                border-color: white; 
+                border-width: 1px;
+                }
+
+            p  {font-family:Arial, Helvetica, sans-serif;
+                line-height:24px;
+                color:rgb(182, 182, 182)
+                }
+
+            table {
+                color:rgb(182, 182, 182)
+                }
+
+            li a :hover {
+                color:white;
+                font-size:20px
+                }
+
+            label {
+                color:rgb(182, 182, 182)
+                }
+
+            ol#kegiatan li {color:black}
+            ol#kegiatan li.favorit {color:blueviolet}
         </style>
     </head>
     <body>
 <h1><b>Selamat datang</b></h1>
 <p>Hallo! Perkenalkan nama saya Fitri Astiria yang membuat website ini untuk belajar.</p>
 <h3>Keseharian saya adalah :</h3>
-<ol>
+<ol id="kegiatan">
     <li>Bangun pagi</li>
     <li>Sarapan</li>
     <li>Sekolah</li>
     <li>Makan</li>
-    <li>Tidur</li>
+    <li class="favorit">Tidur</li>
 </ol>
-<hr>
-<h1>Article By.fitri</h1>
+
+<h3>Article By.fitri</h3>
 <ul>
-    <li><a href="#article1">Apa itu HTML?</a></li>
-    <li><a href="#article2">Sejarah HTML</a></li>
-    <li><a href="#article3">Fungsi HTML</a></li>
+    <li><a href="#article1"><p>Apa itu HTML?</p></a></li>
+    <li><a href="#article2"><p>Sejarah HTML</p></a></li>
+    <li><a href="#article3"><p>Fungsi HTML</p></a></li>
 </ul>
 
  <h2 id="article1">Apa itu HTML?</h2>
- <img src="https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-07/a82368b0-3864-11eb-bcbe-7daa1ab28fd4.jpg" alt="html" width="400x">
+ <img src="https://programacion.net/files/article/article_01967_.jpg" alt="html" width="300px">
  <p>HTML atau Hypertext Markup Language adalah bahasa markup yang digunakan untuk membuat struktur halaman website agar dapat ditampilkan pada web browser. Jadi, HTML dapat dianalogikan sebagai pondasi awal dalam menyusun kerangka halaman web secara terstruktur sebelum membahas terkait tampilan desain dan sisi fungsionalitas.</p>
   
  <h2 id="article2">Sejarah HTML</h2>
@@ -48,7 +90,7 @@ Selanjutnya, HTML juga mengalami tahap perbaikan (maintain) dan dikembangkan ole
 Dimana, peran dari HTML5 berfungsi untuk menyusun kerangka dan struktur halaman website. Kemudian, CSS membantu dalam memberikan tampilan desain meliputi warna, font, outline, dan lain sebagainya. Dan Tugas dari bahasa pemrograman JavaScript adalah memberikan sentuhan interaksi untuk memberikan pengalaman yang berbeda kepada user.</p>
 
 <h2>Jadwal Pelajaran </h2>
-<table border="1" cellspacing="0" cellpadding="10">
+<table border="4" cellspacing="2" cellpadding="10">
     <tr>
         <td>Senin</td>
         <td>Selasa</td>
